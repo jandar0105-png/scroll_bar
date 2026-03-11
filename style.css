@@ -46,27 +46,27 @@ body{
     margin: 50px 0;
 }
 
-.about-us{
+.About-Us{
     height: 500px;
     background-color: green;
 }
 
-.courses{
+.Courses{
     height: 500px;
     background-color: red;
 }
 
-.events{
+.Events{
     height: 500px;
     background-color: blue;
 }
 
-.blog{
+.Blog{
     height: 500px;
     background-color: black;
 }
 
-.coutacts{
+.Contacts{
     height: 500px;
     background-color: lawngreen;
 }
